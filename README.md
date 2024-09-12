@@ -4,7 +4,7 @@ WeatherBot is a simple Python application that fetches and displays current weat
 
 ## About This Project
 
-This is my first Python project as I'm learning programming. I created this application to practice my skills and learn about Python, GUI development, API integration, and basic error handling. While it may not be perfect, it represents my journey into the world of software development.
+This is my first Python project as I'm learning programming. I created this application to practice my skills and learn about Python, GUI development, API integration, and basic error handling. 
 
 
 ## Features
