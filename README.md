@@ -21,20 +21,18 @@ This is my first Python project as I'm learning programming. I created this appl
 
 ## Installation
 
-1. Clone this repository: git clone https://github.com/yourusername/WeatherBot.git
+1. Clone this repository:  `git clone https://github.com/ckakgun/WeatherBot.git`
 2.  Install required packages:
 
-pip install -r requirements.txt
-text
+`pip install -r requirements.txt`
 
 3. Get an API key from [WeatherAPI](https://www.weatherapi.com/) and set it as an environment variable:
 
-export WEATHER_API_KEY=your_api_key_here
-text
+`export WEATHER_API_KEY=your_api_key_here`
 
 ## Usage
 
-Run the application: 'python weatherbot.py'
+Run the application: `python weatherbot.py`
 Enter a city name and press Enter or click "Get Weather Report" to fetch weather data.
 
 ## Learning Journey
