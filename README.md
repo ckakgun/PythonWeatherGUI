@@ -21,7 +21,7 @@ This is my first Python project as I'm learning programming. I created this appl
 
 ## Installation
 
-1. Clone this repository:  `git clone https://github.com/ckakgun/WeatherBot.git`
+1. Clone this repository:  `git clone https://github.com/ckakgun/PythonWeatherGUI.git`
 2.  Install required packages:
 
 `pip install -r requirements.txt`
@@ -32,7 +32,10 @@ This is my first Python project as I'm learning programming. I created this appl
 
 ## Usage
 
-Run the application: `python weatherbot.py`
+Run the application either by:
+- Opening and running the Jupyter notebook: `jupyter notebook WeatherBot.ipynb`
+- Or running the Python script: `python weatherbot.py`
+
 Enter a city name and press Enter or click "Get Weather Report" to fetch weather data.
 
 ## Learning Journey

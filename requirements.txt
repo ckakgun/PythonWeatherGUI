@@ -1,0 +1,5 @@
+requests>=2.31.0
+tkinter
+jupyter>=1.0.0
+notebook>=7.0.0
+ipykernel>=6.0.0 
