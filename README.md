@@ -28,13 +28,10 @@ This is my first Python project as I'm learning programming. I created this appl
 
 3. Get an API key from [WeatherAPI](https://www.weatherapi.com/) and set it as an environment variable:
 
-`export WEATHER_API_KEY=your_api_key_here`
-
 ## Usage
 
-Run the application either by:
-- Opening and running the Jupyter notebook: `jupyter notebook WeatherBot.ipynb`
-- Or running the Python script: `python weatherbot.py`
+Run the application by opening and running the Jupyter notebook:
+`jupyter notebook WeatherBot.ipynb`
 
 Enter a city name and press Enter or click "Get Weather Report" to fetch weather data.
 
